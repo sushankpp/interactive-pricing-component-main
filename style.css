@@ -27,6 +27,7 @@ body {
   background-size: contain;
   font-family: var(--font);
   background-color: var(--Very-Pale-Blue);
+  overflow: hidden;
 }
 
 .main-container {
